@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Counter</string>
+    <string name="counter">Counter</string>
+    <string name="text_pause">here pause button !</string>
+    <string name="text_start">here play button</string>
+    <string name="background_image">here is background</string>
+    <string name="icon_for_view">just icon for view</string>
 </resources>
